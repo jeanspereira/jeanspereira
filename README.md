@@ -1,5 +1,5 @@
 ### Hi there :computer:
-Eu sou Jean Santos, sou um Programador Front End,atualmente estou aprendendo e criando projetos com:
+Eu sou Jean Santos, sou um Programador Front End,Estou animado para continuar crescendo como desenvolvedor Front-end e criar soluções envolventes que deixem uma marca positiva. Vamos construir algo incrível juntos! 🚀
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
